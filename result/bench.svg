@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+     width="35em" height="26.25em" viewBox="0 0 560 420"
+     stroke-width="1" text-anchor="middle">
+  <path fill="#ccc" d="M76,0h80v360H76zM236,0h80v360H236zM396,0h80v360H396z" />
+  <path stroke="#ccebc5" d="M76,20H556M76,60H556M76,100H556M76,140H556M76,180H556M76,220H556M76,260H556M76,300H556M76,340H556" />
+  <path stroke="#e41a1c" d="
+    M102,39h8m0,37h-8m0,37h8m0,33h-8m0,39h8m0,39h-8m0,35h8
+    M112,285h8m0,-166h-8m0,169h8m0,-132h-8m0,134h8m0,-99h-8m0,106h8m0,-71h-8m0,74h8m0,-40h-8m0,38h8m0,-24h-8m0,19h8m0,-9h-8
+    M122,347h8m0,-1h-8m0,-3h8m0,-5h-8m0,-5h8m0,-9h-8m0,-4h8
+    M177,29h8m0,38h-8m0,35h8m0,37h-8m0,36h8m0,43h-8
+    M187,242h8m0,-134h-8m0,135h8m0,-97h-8m0,106h8m0,-72h-8m0,82h8m0,-51h-8m0,46h8m0,-15h-8m0,22h8m0,-7h-8
+    M197,301h8m0,58h-8m0,-74h8m0,10h-8m0,15h8m0,-30h-8m0,9h8m0,2h-8m0,-15h8m0,7h-8m0,-2h8m0,-11h-8m0,4h8m0,-4h-8m0,-6h8m0,24h-8m0,-5h8m0,1h-8
+    M207,300h8h-8m0,-4h8m0,-3h-8m0,-5h8m0,4h-8
+    M252,27h8m0,35h-8m0,36h8m0,34h-8m0,41h8
+    M262,204h8m0,-99h-8m0,105h8m0,-68h-8m0,85h8m0,-50h-8m0,43h8m0,-16h-8m0,23h8m0,-7h-8
+    M272,248h8m0,17h-8m0,-30h8m0,7h-8m0,5h8m0,-16h-8m0,6h8m0,-1h-8m0,-9h8m0,1h-8m0,-1h8m0,-7h-8m0,23h8m0,-3h-8h8
+    M282,256h8m0,-8h-8m0,17h8m0,-27h-8m0,14h8m0,-10h-8m0,5h8m0,-11h-8m0,12h8m0,-12h-8h8m0,-3h-8m0,11h8m0,-17h-8h8m0,1h-8m0,32h8m0,-20h-8m0,-4h8m0,13h-8
+    M292,265h8m0,-3h-8m0,-2h8m0,-1h-8m0,7h8
+    M327,21h8m0,36h-8m0,35h8m0,37h-8
+    M337,173h8m0,-74h-8m0,84h8m0,-54h-8m0,49h8m0,-26h-8m0,32h8m0,-9h-8
+    M347,201h8m0,4h-8m0,-15h8m0,5h-8m0,1h8m0,-10h-8h8m0,-2h-8m0,-5h8m0,18h-8m0,-2h8m0,2h-8
+    M357,209h8m0,-9h-8m0,5h8m0,-11h-8m0,11h8m0,-11h-8h8m0,-4h-8m0,11h8m0,-16h-8m0,-2h8m0,3h-8m0,34h8m0,-24h-8m0,-2h8m0,13h-8
+    M367,232h8m0,-22h-8m0,-9h8m0,5h-8m0,-5h8m0,31h-8m0,-25h8m0,-11h-8m0,1h8m0,1h-8m0,33h8m0,-29h-8m0,-15h8m0,-2h-8m0,10h8m0,56h-8m0,-33h8m0,-23h-8m0,-3h8m0,24h-8
+    M377,246h8m0,3h-8m0,-5h8m0,5h-8
+    M402,17h8m0,35h-8m0,37h8
+    M412,146h8m0,-53h-8m0,44h8m0,-19h-8m0,26h8m0,-15h-8
+    M422,155h8h-8m0,-10h8m0,-1h-8m0,-1h8m0,-6h-8m0,22h8m0,-3h-8m0,2h8
+    M432,165h8m0,-10h-8m0,1h8m0,-5h-8m0,9h8m0,-16h-8m0,-1h8m0,2h-8m0,33h8m0,-20h-8m0,-3h8m0,12h-8
+    M442,189h8m0,-24h-8m0,-10h8m0,1h-8m0,1h8m0,31h-8m0,-28h8m0,-15h-8m0,-1h8m0,9h-8m0,58h8m0,-33h-8m0,-19h8m0,-4h-8m0,20h8
+    M452,228h8m0,-37h-8m0,-20h8m0,-8h-8h8m0,20h-8m0,45h8m0,-38h-8m0,-23h8m0,-9h-8m0,-1h8m0,24h-8m0,68h8m0,-40h-8m0,-31h8m0,-16h-8m0,-2h8m0,48h-8
+    M462,240h8m0,1h-8m0,11h8
+    M477,11h8m0,37h-8
+    M487,99h8m0,-23h-8m0,38h8m0,-9h-8
+    M497,106h8m0,-1h-8m0,-8h8m0,20h-8m0,-3h8m0,2h-8
+    M507,120h8m0,-15h-8m0,-1h8m0,1h-8m0,34h8m0,-23h-8m0,-3h8m0,14h-8
+    M517,148h8m0,-28h-8m0,-14h8m0,-2h-8m0,9h8m0,58h-8m0,-32h8m0,-22h-8m0,-3h8m0,21h-8
+    M527,186h8m0,-37h-8m0,-23h8m0,-9h-8h8m0,24h-8m0,69h8m0,-39h-8m0,-30h8m0,-20h-8m0,-2h8m0,45h-8
+    M537,228h8m0,-39h-8m0,-27h8m0,-8h-8m0,-2h8h-8m0,36h8m0,60h-8m0,-40h8m0,-35h-8m0,-19h8m0,-5h-8h8m0,53h-8
+    M547,241h8m0,10h-8" />
+  <g font-size="16" font-style="italic">
+    <text transform="rotate(-90)"
+          x="-180" y="21">Trie ÷ Vector time</text>
+    <text x="316" y="408">Words length (k)</text>
+  </g>
+  <g font-size="14">
+    <text text-anchor="end"><tspan x="75" y="344">0.1×</tspan><tspan x="75" y="304">1×</tspan><tspan x="75" y="264">10×</tspan><tspan x="75" y="224">100×</tspan><tspan x="75" y="184">1 k×</tspan><tspan x="75" y="144">10 k×</tspan><tspan x="75" y="104">100 k×</tspan><tspan x="75" y="64">1 M×</tspan><tspan x="75" y="24">10 M×</tspan></text>
+    <text y="380"><tspan x="116">10</tspan><tspan x="196">100</tspan><tspan x="276">1 k</tspan><tspan x="356">10 k</tspan><tspan x="436">100 k</tspan><tspan x="516">1 M</tspan></text>
+  </g>
+</svg>
